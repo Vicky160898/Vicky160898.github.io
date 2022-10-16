@@ -1,0 +1,33 @@
+import styles from "../css/navbar.module.css";
+ import logo from "../media/vh-logo.png";
+
+export const Navbar = () => {
+  return (
+    <div className={styles.container}>
+      <div className={styles.firstChild}>
+        {/* <img
+          src={logo}
+          alt=""
+        /> */}
+       
+      </div>
+      <div className={styles.secondChild}>
+        <div>
+          <a href="#home">Home</a>
+        </div>
+        <div>
+          <a href="#about">About</a>
+        </div>
+        <div>
+          <a href="#skills">Skills</a>
+        </div>
+        <div>
+          <a href="#projects">Projects</a>
+        </div>
+        <div>
+          <a href="#contact">Contact</a>
+        </div>
+      </div>
+    </div>
+  );
+};
