@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8616450d.css",
-    "main.js": "/static/js/main.ee8d4377.js",
+    "main.css": "/static/css/main.f5da7c92.css",
+    "main.js": "/static/js/main.0ece9bbb.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/everhour.png": "/static/media/everhour.c84a032ab668a46e066a.png",
     "static/media/rentomojo.png": "/static/media/rentomojo.29a19e7c5535e6171523.png",
     "static/media/travelocity.png": "/static/media/travelocity.5e0d5f107cb3d6016af6.png",
     "static/media/modesens.png": "/static/media/modesens.87aa461c6b2822d096e5.png",
+    "static/media/vowelweb.png": "/static/media/vowelweb.1357147a3cf3ab0c3b6f.png",
     "static/media/profile.png": "/static/media/profile.3a090537759983ca7f3d.png",
-    "static/media/everhour.png": "/static/media/everhour.f4059b5079acb0b9ce71.png",
     "static/media/github.png": "/static/media/github.f11021803f68852df283.png",
     "static/media/copy.png": "/static/media/copy.aab2df846ca072fb67ff.png",
     "index.html": "/index.html",
-    "main.8616450d.css.map": "/static/css/main.8616450d.css.map",
-    "main.ee8d4377.js.map": "/static/js/main.ee8d4377.js.map",
+    "main.f5da7c92.css.map": "/static/css/main.f5da7c92.css.map",
+    "main.0ece9bbb.js.map": "/static/js/main.0ece9bbb.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8616450d.css",
-    "static/js/main.ee8d4377.js"
+    "static/css/main.f5da7c92.css",
+    "static/js/main.0ece9bbb.js"
   ]
 }
